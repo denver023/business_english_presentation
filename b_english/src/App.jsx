@@ -204,7 +204,7 @@ function App() {
                 <p className="text-gray-600 leading-relaxed">
                   Created a robust inventory management system to streamline stock control, track product movements, and optimize supply chain efficiency for businesses.
                 </p>
-                <a href="https://inventory-p7vlqzp66-denver023s-projects.vercel.app" className="mt-4 inline-block text-blue-600 hover:text-blue-800 font-medium transition duration-300">
+                <a href="https://inventory-omega-pink.vercel.app/" className="mt-4 inline-block text-blue-600 hover:text-blue-800 font-medium transition duration-300">
                   View &rarr;
                 </a>
               </div>
